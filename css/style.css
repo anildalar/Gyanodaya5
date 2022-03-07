@@ -1,0 +1,9 @@
+div.a_box{
+    width: 400px;
+    height: 400px;
+    background:red;
+    text-align: center;
+    line-height: 400px;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
